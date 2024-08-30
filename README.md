@@ -17,3 +17,10 @@ this script hooks up to discord’s gateway n fakes a nitro status, makin it loo
 1. Clone the repository:
    ```bash
    git clone https://github.com/mxkxkks/DMS.git
+
+## Usage
+1. Edit the `usertoken` variable in `main.py` with your Discord token.
+
+2. Run the script:
+   ```bash
+   python main.py
