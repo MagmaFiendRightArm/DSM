@@ -14,7 +14,7 @@
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/mxkxkks/DMS.git
+   git clone https://github.com/MagmaFiendRightArm/DMS.git
 
 ## Usage
 1. Edit the `usertoken` variable in `main.py` with your Discord token.
